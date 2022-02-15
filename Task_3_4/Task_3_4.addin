@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\Task_3_4.dll"</Assembly>
+		<AddInId>90569B73-9FD4-4BCE-92D4-CB43FF18A562</AddInId>
+		<FullClassName>Task_3_4.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Труба Наружный диаметр / Внутренний диаметр</Text>
+	</AddIn>
+</RevitAddIns>
